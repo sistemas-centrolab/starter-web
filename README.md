@@ -8,8 +8,10 @@ This is an introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Changing the purpose
 
 ## Deployment
+
+Deployment text
 
 ## How to contribute
